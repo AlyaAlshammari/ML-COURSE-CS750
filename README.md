@@ -14,8 +14,7 @@ This project fine-tunes the MedCLIP model (Vision Transformer-based) on the NIH 
 
 - Loss Function: BCEWithLogitsLoss compares predicted logits with synonym-expanded multi-hot label vectors.
 
-🏋️‍♀️ *Training*
-Training Strategy:
+🏋️‍♀️ *Training Strategy*
 
 - Each image is passed through the encoder.
 
